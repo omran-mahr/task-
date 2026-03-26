@@ -1,1 +1,4 @@
 modified c1.txt using master
+=======
+modified c1.txt using second branch
+

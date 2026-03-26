@@ -1,1 +1,3 @@
 modified c2 using master 
+=======
+modified c2.txt using second branch 

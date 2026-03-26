@@ -1,1 +1,3 @@
 modified b3 using master
+=======
+modified b3.txt file using first 
